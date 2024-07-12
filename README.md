@@ -2,10 +2,11 @@
 
 In the project directory, you can run:
 
+```bash
 npm install
 #then
 npm start
-
+```
 
 NOTE: Please use at leas node v 16.14.0
 
