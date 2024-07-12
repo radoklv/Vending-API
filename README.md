@@ -8,7 +8,7 @@ npm install
 npm start
 ```
 
-NOTE: Please use at leas node v 16.14.0
+NOTE: Please use at least node v16.14.0
 
 
 Runs the app in the development mode.\
